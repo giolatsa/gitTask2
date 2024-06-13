@@ -1,0 +1,26 @@
+From b26600e45302c59a545607df64eaa17f226a507d Mon Sep 17 00:00:00 2001
+From: Giorgi Latsabidze <giolatsa@gmail.com>
+Date: Thu, 13 Jun 2024 15:38:48 +0400
+Subject: [PATCH] Step 8
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index a8f1e1d..4799716 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ f 5
+ f 6
+ f 7
+ f 8
+-f 9
+-f 10
+\ No newline at end of file
++fupdated 9
++fupdated 10
+\ No newline at end of file
+-- 
+2.33.0.windows.2
+
